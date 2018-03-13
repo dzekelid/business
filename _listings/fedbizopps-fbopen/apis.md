@@ -23,7 +23,7 @@ apis:
   tags: Business
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/business/master/_listings/fedbizopps-fbopen/gsa-fbopen-v0-opp-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/business/master/_listings/fedbizopps-fbopen/gsa-fbopen-v0-opps-getting-started.md
 x-common:
 - type: x-issues
   url: https://github.com/18f/fbopen/issues/new
