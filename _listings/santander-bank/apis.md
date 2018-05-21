@@ -1,5 +1,6 @@
 ---
 name: Santander Bank
+x-slug: santander-bank
 description: Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary
   of Spanish Santander Group. It is based in Boston and its principal market is the
   northeastern United States. It has $54.7 billion in deposits, operates about 650
@@ -10,23 +11,41 @@ description: Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned s
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
 x-kinRank: "8"
 x-alexaRank: "11016"
-tags:
-- UK Banks
-- ATMs
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/business/master/_listings/santander-bank/apis.yaml
+tags: Business
+created: "2018-05-20"
+modified: "2018-05-20"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/santander-bank/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Santander Bank
-  description: Santander Bank, N
+- name: Santander Bank Get Current Business Accounts
+  x-api-slug: santander-bank
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can own multiple BCA products.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
-  humanURL: ""
+  humanURL: https://www.santanderbank.com
+  baseURL: https://openapi.santander.co.uk/open-banking/v2.1//business-current-accounts/
+  tags: Current, Business, Accounts
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/santander-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/santander-bank/businesscurrentaccounts-get-openapi.md
+- name: Santander Bank
+  x-api-slug: santander-bank
+  description: Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary
+    of Spanish Santander Group. It is based in Boston and its principal market is
+    the northeastern United States. It has $54.7 billion in deposits, operates about
+    650 retail banking offices and over 2,000 ATMs, and employs approximately 9,800
+    people. It offers an array of financial services and products including retail
+    banking, mortgages, corporate banking, cash management, credit card, capital markets,
+    trust and wealth management, and insurance.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg
+  humanURL: https://www.santanderbank.com
   baseURL: https://openapi.santander.co.uk/open-banking/v2.1/
   tags: Business
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/business/master/_listings/santander-bank/business-current-accounts-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/santander-bank/openapi.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/santander-bank-2
