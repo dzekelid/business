@@ -8,10 +8,10 @@ description: Bank of Ireland Group plc is a public limited company incorporated 
   company of Bank of Ireland.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-ireland.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Business
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-17"
+modified: "2018-06-17"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bank-of-ireland/apis.md
 specificationVersion: "0.14"
 apis:

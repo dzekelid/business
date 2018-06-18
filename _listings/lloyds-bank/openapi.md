@@ -4,7 +4,7 @@ x-collection-name: Lloyds Bank
 x-complete: 1
 info:
   title: Lloyds Bank
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-from-lloyds-ban
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-from-lloyds-ban-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist

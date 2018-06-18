@@ -27,6 +27,14 @@ paths:
       operationId: accreditation
       x-api-path-slug: accreditation-get
       responses:
+        Maximum record size:
+          description: 100 KiB
+        Maximum number of records per datastore:
+          description: "100,000"
+        Maximum datastore size:
+          description: 10 MiB
+        Maximum size of a delta:
+          description: 2 MiB
         200:
           description: OK
       tags:

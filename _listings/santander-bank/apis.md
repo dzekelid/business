@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-
 x-kinRank: "8"
 x-alexaRank: "11016"
 tags: Business
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-17"
+modified: "2018-06-17"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/santander-bank/apis.md
 specificationVersion: "0.14"
 apis:

@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "77947"
 tags: Business
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-17"
+modified: "2018-06-17"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/barclays/apis.md
 specificationVersion: "0.14"
 apis:
@@ -22,7 +22,7 @@ apis:
   description: This endpoint can contain multiple brands owned by a particular banking
     group. Each brand can own multiple BCA products.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1//business-current-accounts/
   tags: Business, Current, Accounts
   properties:
@@ -40,7 +40,7 @@ apis:
     Corporate (Personal Banking, Corporate Banking, Wealth &amp; Investment Management),
     Barclaycard, Investment Banking and Africa.'
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png
-  humanURL: https://developer.barclays.com
+  humanURL: https://barclays.com
   baseURL: https://atlas.api.barclays/open-banking/v2.1/
   tags: Business
   properties:
@@ -68,7 +68,7 @@ x-common:
 - type: x-twitter
   url: https://twitter.com/Barclays
 - type: x-website
-  url: https://developer.barclays.com
+  url: https://barclays.com
 include: []
 maintainers:
 - FN: Kin Lane

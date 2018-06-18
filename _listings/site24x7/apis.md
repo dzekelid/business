@@ -1,24 +1,22 @@
 ---
 name: Site24x7
 x-slug: site24x7
-description: Site24x7 is a web infrastructure monitoring service that helps to monitor
-  the uptime and performance of websites, online applications and servers. The monitoring
-  is done from 50+ locations across the world, thus giving you a global perspective
-  of the end-user experience. Site24x7 supports monitoring HTTP, HTTPS, SMTP, TCP,
-  IMAP, SSL, Ping, FTP, SFTP, DNS and other internet facing network services.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/site24x7-logo-new.png
+description: Site24x7 offers both free & paid website monitoring services. Monitor
+  websites remotely and receive instant email/sms alerts if your website becomes unavailable.
+  View uptime & performance graphs of your website monitors.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
 x-kinRank: "7"
-x-alexaRank: ""
+x-alexaRank: "42122"
 tags: Business
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-17"
+modified: "2018-06-17"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/site24x7/apis.md
 specificationVersion: "0.14"
 apis:
 - name: Business Hours API Create Business Hour
   x-api-slug: business-hours-api
   description: Create a new Business Hour.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/site24x7-logo-new.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
   humanURL: https://www.site24x7.com/
   baseURL: ://www.site24x7.com.///business_hours
   tags: Business Hours
@@ -30,7 +28,7 @@ apis:
 - name: Business Hours API Update Business Hour
   x-api-slug: business-hours-api
   description: Update an existing Business Hour.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/site24x7-logo-new.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
   humanURL: https://www.site24x7.com/
   baseURL: ://www.site24x7.com.///business_hours/{business_hours_id}
   tags: Business Hours
@@ -42,7 +40,7 @@ apis:
 - name: Business Hours API List Business Hours
   x-api-slug: business-hours-api
   description: List of all Business Hours.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/site24x7-logo-new.png
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
   humanURL: https://www.site24x7.com/
   baseURL: ://www.site24x7.com.///business_hours
   tags: Business Hours
@@ -53,12 +51,10 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/site24x7/business-hours-get-openapi.md
 - name: Business Hours API
   x-api-slug: business-hours-api
-  description: Site24x7 is a web infrastructure monitoring service that helps to monitor
-    the uptime and performance of websites, online applications and servers. The monitoring
-    is done from 50+ locations across the world, thus giving you a global perspective
-    of the end-user experience. Site24x7 supports monitoring HTTP, HTTPS, SMTP, TCP,
-    IMAP, SSL, Ping, FTP, SFTP, DNS and other internet facing network services.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/site24x7-logo-new.png
+  description: Site24x7 offers both free & paid website monitoring services. Monitor
+    websites remotely and receive instant email/sms alerts if your website becomes
+    unavailable. View uptime & performance graphs of your website monitors.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/481-site24x7.jpg
   humanURL: https://www.site24x7.com/
   baseURL: ://www.site24x7.com./
   tags: Business
@@ -73,9 +69,15 @@ x-common:
 - type: x-blog-rss
   url: http://blogs.site24x7.com/feed
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/site24x7
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/site24x7
 - type: x-developer
   url: https://www.site24x7.com/help/api/
+- type: x-email
+  url: support@site24x7.com
+- type: x-email
+  url: sales@site24x7.com
 - type: x-github
   url: https://github.com/site24x7
 - type: x-partner-program

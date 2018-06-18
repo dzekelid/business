@@ -4,7 +4,7 @@ x-collection-name: Site24x7
 x-complete: 1
 info:
   title: Business Hours API
-  description: the-business-hours-api
+  description: the-business-hours-api-
   version: 1.0.0
 host: www.site24x7.com.
 schemes:
