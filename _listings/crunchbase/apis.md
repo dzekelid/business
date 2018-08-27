@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/173-crunch
 x-kinRank: "8"
 x-alexaRank: "1957"
 tags: Business
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/crunchbase/apis.md
 specificationVersion: "0.14"
 apis: []

@@ -7,11 +7,21 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28769-www-
 x-kinRank: "7"
 x-alexaRank: "23042"
 tags: Business
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bookeo/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Bookeo - Get information, location and contact details about the business
+  x-api-slug: settingsbusiness-get
+  description: Get information, location and contact details about the business.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28769-www-bookeo-com.jpg
+  humanURL: https://www.bookeo.com
+  baseURL: https://api.bookeo.com//v2
+  tags: Bookings, Schedules, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bookeo/settingsbusiness-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://bmc.software.api.gallery.streamdata.io

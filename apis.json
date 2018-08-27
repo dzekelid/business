@@ -1,0 +1,850 @@
+{
+	"name": "Streadata.io API Gallery - Business",
+	"description": "This is a repository of business APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/business.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://business.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Factual",
+			"x-api-slug": "factual",
+			"description": "Factual is pioneering how the world uses data to power mobile marketing, digital consumer products, mobile applications and real world analytics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/139-factual.jpg",
+			"humanURL": "http://www.factual.com/",
+			"baseURL": "https://api.v3.factual.com//",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/factual/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CrunchBase",
+			"x-api-slug": "crunchbase",
+			"description": "Crunchbase is the leading platform to discover innovative companies and the people behind them.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/173-crunchbase.jpg",
+			"humanURL": "http://crunchbase.com/",
+			"baseURL": "https://api.crunchbase.com//v/3",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/crunchbase/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dun & Bradstreet",
+			"x-api-slug": "dun--bradstreet",
+			"description": "Dun & Bradstreet (NYSE: DNB) grows the most valuable relationships in business. We help our customers and partners make better business decisions. Many global companies rely on our data, insights, and analytics for success. Find out how Dun & Bradstree...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/174-dun-&-bradstreet.jpg",
+			"humanURL": "http://developer.dnb.com",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/dun--bradstreet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Foursquare",
+			"x-api-slug": "foursquare",
+			"description": "Foursquare helps you find the perfect places to go with friends. Discover the best food, nightlife, and entertainment in your area.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg",
+			"humanURL": "http://blog.foursquare.com",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/foursquare/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FullContact",
+			"x-api-slug": "fullcontact",
+			"description": "Build a clearer picture of your customers in minutes with our data-focused APIs. Manage your personal or teams contacts with our contact apps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/205-fullcontact.jpg",
+			"humanURL": "http://fullcontact.com",
+			"baseURL": "https://api.fullcontact.com//",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/fullcontact/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Aculab Cloud",
+			"x-api-slug": "aculab-cloud",
+			"description": "Aculab offers a comprehensive range of telephony platforms - cloud-based, software-based, hardware-based - and a wide range of gateways.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/305-aculab-cloud.jpg",
+			"humanURL": "https://www.aculab.com/",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/aculab-cloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AMEE",
+			"x-api-slug": "amee",
+			"description": "Data driven solutions to strengthen supply chain performance and risk.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg",
+			"humanURL": "https://www.amee.com",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/amee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AngelList",
+			"x-api-slug": "angellist",
+			"description": "AngelList is where the world meets startups. Find a great startup job, invest in a startup, or raise money",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/339-angellist.jpg",
+			"humanURL": "http://angel.co",
+			"baseURL": "https://api.angel.co//1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/angellist/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Data8 Ltd",
+			"x-api-slug": "data8-ltd",
+			"description": "We believe that clean accurate data is the key to every successful business and this has been our philosophy since 2005. This philosophy has enabled us to become the leading total data quality solutions provider by simplifying and automating data management processes, so customers can completely trust their data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/d8logo_trans.png",
+			"humanURL": "http://www.data-8.co.uk",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/data8-ltd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StrikeIron",
+			"x-api-slug": "strikeiron",
+			"description": "StrikeIron is the leader in Data-as-a-Service (DaaS), delivering data quality and communications solutions via our cloud platform IronCloud. We provide address verification, email verification, phone validation, phone append, SMS text messaging, and sales tax solutions to customers in a variety of markets. Our solutions are delivered as Web services that can be easily integrated into any application or system. Additionally, our solutions are pre-integrated into leading platforms like: Salesforce.com, Magento, Informatica, Oracle CRM On-Demand, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/372-informatica.jpg",
+			"humanURL": "http://www.informatica.com",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/strikeiron/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yelp",
+			"x-api-slug": "yelp",
+			"description": "User Reviews and Recommendations of Best Restaurants, Shopping, Nightlife, Food, Entertainment, Things to Do, Services and More at Yelp",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg",
+			"humanURL": "http://yelp.com/engineering",
+			"baseURL": "https://api.yelp.com//v3",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/yelp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cacoo",
+			"x-api-slug": "cacoo",
+			"description": "Online diagram software to create and securely share flowcharts, wireframes, UML models, network diagram and more. Over 2.5 million users. Start with a Free account!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/553-cacoo.jpg",
+			"humanURL": "https://cacoo.com",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/cacoo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SensisAPI",
+			"x-api-slug": "sensisapi",
+			"description": "Founded in 1985, Sensis Corporation is a global provider of air defense, air traffic control, airline and airport operations management, and data integration and distribution. The company serves a global client base and is actively involved in industry organizations and working groups worldwide, helping to address critical issues and develop innovative, real-world solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/923_logo.jpg",
+			"humanURL": "http://sensis.com.au/",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/sensisapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CityGrid Media",
+			"x-api-slug": "citygrid-media",
+			"description": "Leading Local Online Media Company",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/997-citygrid-media.jpg",
+			"humanURL": "http://docs.citygridmedia.com/display/citygridv2/CityGrid+APIs",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/citygrid-media/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpenCorporates",
+			"x-api-slug": "opencorporates",
+			"description": "Free and Open Company Data on 135 million companies and corporations in over 125 jurisdictions, including US, UK, Switzerland, Panama...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1108-opencorporates.jpg",
+			"humanURL": "http://opencorporates.com",
+			"baseURL": "://api.opencorporates.com/v0.4/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/opencorporates/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TelAPI",
+			"x-api-slug": "telapi",
+			"description": "Zang offers business communications tools & voice app development platforms that bring innovation and ease to unified communications & collaboration solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1176-telapi.jpg",
+			"humanURL": "http://www.telapi.com",
+			"baseURL": "http://api.telapi.com/v2/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/telapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Data.be",
+			"x-api-slug": "data-be",
+			"description": "All official info on companies in Belgium: email, phone, Belgian gazette, company house publications, annual accounts, stakeholders, VAT number,...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1888-data-be.jpg",
+			"humanURL": "https://data.be/",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/data-be/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kompany.com",
+			"x-api-slug": "kompany-com",
+			"description": "KYC KYB AML UBO  Credit Report & Register Report  100m Companies 4m Officers Official & Real Time Instant Online Access",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2159-kompany-com.jpg",
+			"humanURL": "https://www.kompany.com/",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/kompany-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Square",
+			"x-api-slug": "square",
+			"description": "Square helps millions of sellers run their business- from secure credit card processing to point of sale solutions. Get paid faster with Square and sign up today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg",
+			"humanURL": "http://square.com",
+			"baseURL": "https://connect.squareup.com//",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/square/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Acxiom",
+			"x-api-slug": "acxiom",
+			"description": "Acxioms data and technology transform marketing  giving our clients the power to manage audiences, personalize customer experiences and create profitable customer relationships.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10134-acxiom.jpg",
+			"humanURL": "http://www.acxiom.com/",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/acxiom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Small Business Administration",
+			"x-api-slug": "small-business-administration",
+			"description": "The Small Business Administration (SBA) is a United States government agency that provides support to entrepreneurs and small businesses. The mission of the Small Business Administration is to maintain and strengthen the nations economy by enabling the establishment and viability of small businesses and by assisting in the economic recovery of communities after disasters. The agencys activities are summarized as the 3 Cs of capital, contracts and counseling.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/280px-US-SmallBusinessAdmin-Seal.svg.png",
+			"humanURL": "http://www.sba.gov",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/small-business-administration/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BusinessUSA",
+			"x-api-slug": "businessusa",
+			"description": "Too often, interactions with the government are burdensome and frustrating. From seeking out financing opportunities to learning about the latest regulations affecting them, hard-working businesses are spending too much time navigating the federal bureaucracy. On October 28, 2011, the President issued a challenge to government agencies to think beyond their organizational boundaries in the best interest of serving Americas business community, and start thinking and acting more like the businesses they serve.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/businessusa-logo.png",
+			"humanURL": "http://business.usa.gov",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/businessusa/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Clearbit",
+			"x-api-slug": "clearbit",
+			"description": "Clearbit provides powerful products and data APIs to help your business grow. Contact enrichment, lead generation, financial compliance, and more...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11319-clearbit.jpg",
+			"humanURL": "http://blog.clearbit.com",
+			"baseURL": "https://discovery.clearbit.com//v1/companies",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/clearbit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stocklytics",
+			"x-api-slug": "stocklytics",
+			"description": "Build feature rich, fast applications and websites based around accurate stock market data. Launch in hours rather than days using the Stocklytics API. The Stocklytics API is a powerful, low-cost RESTful API allowing you to create stock/ financial based apps and websites with data from our service. Such as historical stock price data that can be used for creating stock charts and determining trends. We also offer a company financial data API which allows your to get company information for a particular Stock Code.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stocklytics-logo.png",
+			"humanURL": "http://stocklytics.com",
+			"baseURL": "https://api.stocklytics.com//services/pressroom/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/stocklytics/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Better Business Bureau",
+			"x-api-slug": "better-business-bureau",
+			"description": "The Better Business Bureau (BBB), founded in 1912, is a nonprofit organization focused on advancing marketplace trust, consisting of 112 independently incorporated local BBB organizations in the United States and Canada, coordinated under the Council of Better Business Bureaus (CBBB) in Arlington, Virginia.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/200px-Better_Business_Bureau.svg.png",
+			"humanURL": "http://www.bbb.org/",
+			"baseURL": "https:///",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/better-business-bureau/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HSBC",
+			"x-api-slug": "hsbc",
+			"description": "HSBC Holdings plc is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong. It is the worlds seventh largest bank by total assets and the largest in Europe with total assets of US$2.374 trillion (as of December 2016). It was established in its present form in London in 1991 by The Hongkong and Shanghai Banking Corporation to act as a new group holding company. The origins of the bank lie mainly in Hong Kong and to a lesser extent in Shanghai, where branches were first opened in 1865. The HSBC name is derived from the initials of the Hongkong and Shanghai Banking Corporation. The company was first formally incorporated in 1866. The company continues to see both the United Kingdom and Hong Kong as its home markets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png",
+			"humanURL": "https://hsbc.com",
+			"baseURL": "https://api.hsbc.com/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/hsbc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Danske Bank",
+			"x-api-slug": "danske-bank",
+			"description": "Danske Bank is a Danish bank whose name also literally translates into Danish Bank. It was founded 5 October 1871 as Den Danske Landmandsbank, Hypothek- og Vexelbank i Kjbenhavn (The Danish Farmers Bank, Mortgage and Exchange Bank of Copenhagen). Headquartered in Copenhagen, it is the largest bank in Denmark and a major retail bank in the northern European region with over 5 million retail customers. Danske Bank was number 454 on the Fortune Global 500 list for 2011.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg",
+			"humanURL": "https://danskebank.com",
+			"baseURL": "https://obp-data.danskebank.com/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/danske-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lloyds Bank",
+			"x-api-slug": "lloyds-bank",
+			"description": "Lloyds Bank plc is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the Big Four clearing banks. The bank was founded in Birmingham in 1765. It expanded during the nineteenth and twentieth centuries and took over a number of smaller banking companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc between 1999 and 2013.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png",
+			"humanURL": "https://lloydsbank.com",
+			"baseURL": "https://api.lloydsbank.com/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/lloyds-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Barclays",
+			"x-api-slug": "barclays",
+			"description": "Barclays is a British multinational bank and financial services company headquartered in London. It is a universal bank with global reach, offering products and services across personal, corporate and investment banking, credit cards and wealth management. It has operations in over 40 countries and employs approximately 120,000 people. Barclays is organised into four core businesses: Personal &amp; Corporate (Personal Banking, Corporate Banking, Wealth &amp; Investment Management), Barclaycard, Investment Banking and Africa.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png",
+			"humanURL": "https://barclays.com",
+			"baseURL": "https://atlas.api.barclays/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/barclays/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Royal Bank of Scotland",
+			"x-api-slug": "royal-bank-of-scotland",
+			"description": "The Royal Bank of Scotland (Scottish Gaelic: Banca R&igrave;oghail na h-Alba, Scots: Ryal Baunk o Scotland, Welsh: Banc Brenhinol yr Alban), commonly abbreviated as RBS, is one of the retail banking subsidiaries of The Royal Bank of Scotland Group plc, together with NatWest and Ulster Bank. The Royal Bank of Scotland has around 700 branches, mainly in Scotland, though there are branches in many larger towns and cities throughout England and Wales. Both the bank and its parent, The Royal Bank of Scotland Group, are completely separate from the fellow Edinburgh-based bank, the Bank of Scotland, which pre-dates The Royal Bank of Scotland by 32 years.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/royal-bank-of-scotland.png",
+			"humanURL": "https://www.rbs.com",
+			"baseURL": "https://openapi.rbs.co.uk/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/royal-bank-of-scotland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "First Trust Bank",
+			"x-api-slug": "first-trust-bank",
+			"description": "First Trust Bank is a trade mark of AIB Group (UK) p.l.c. (a wholly owned subsidiary of Allied Irish Banks, p.l.c.), incorporated in Northern Ireland. Registered Office 92 Ann Street, Belfast BT1 3HH. Registered Number NI018800. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mdy_8774354__firsttrustbank.jpg",
+			"humanURL": "https://firsttrustbank.co.uk/",
+			"baseURL": "https://openapi.firsttrustbank.co.uk/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/first-trust-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Allied Irish Bank",
+			"x-api-slug": "allied-irish-bank",
+			"description": "Allied Irish Banks (AIB) is one of the so-called Big Four commercial banks in Ireland. AIB offers a full range of personal and corporate banking services. AIB Capital Markets is the division of the company that offers international banking and treasury operations. The bank also offers a range of general insurance products such as home, travel, and health insurance. It offers life assurance and pensions through its tied agency with Irish Life Assurance plc.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg",
+			"humanURL": "https://aibgb.co.uk/",
+			"baseURL": "https://openapi.aibgb.co.uk/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/allied-irish-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Santander Bank",
+			"x-api-slug": "santander-bank",
+			"description": "Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary of Spanish Santander Group. It is based in Boston and its principal market is the northeastern United States. It has $54.7 billion in deposits, operates about 650 retail banking offices and over 2,000 ATMs, and employs approximately 9,800 people. It offers an array of financial services and products including retail banking, mortgages, corporate banking, cash management, credit card, capital markets, trust and wealth management, and insurance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg",
+			"humanURL": "https://www.santanderbank.com",
+			"baseURL": "https://openapi.santander.co.uk/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/santander-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NatWest",
+			"x-api-slug": "natwest",
+			"description": "National Westminster Bank, commonly known as NatWest, is a large retail and commercial bank in the United Kingdom. It was established in 1968 by the merger of National Provincial Bank (established 1833 as National Provincial Bank of England) and Westminster Bank (established 1834 as London County and Westminster Bank). Since 2000 it has been part of the Royal Bank of Scotland Group. Following ring-fencing of the Groups core domestic business, the bank is a direct subsidiary of NatWest Holdings. NatWest Markets comprises its investment banking arm.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png",
+			"humanURL": "https://personal.natwest.com/personal.html",
+			"baseURL": "https://openapi.natwest.com/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/natwest/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ulster Bank",
+			"x-api-slug": "ulster-bank",
+			"description": "Ulster Bank is a large commercial bank, and one of the traditional Big Four Irish banks. The Ulster Bank Group is subdivided into two separate legal entities, Ulster Bank Limited (UBL &ndash; registered in Northern Ireland) and Ulster Bank Ireland DAC (UBIDAC &ndash; registered in the Republic of Ireland). The Groups headquarters (and UBIDACs) is located on Georges Quay, Dublin, in the Republic of Ireland whilst the official headquarters of UBL is in Donegall Square East, Belfast, in Northern Ireland, and it maintains a large sector of the financial services in both the UK and the Republic of Ireland.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png",
+			"humanURL": "https://digital.ulsterbank.co.uk/",
+			"baseURL": "https://openapi.ulsterbank.co.uk/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/ulster-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nationwide Building Society",
+			"x-api-slug": "nationwide-building-society",
+			"description": "Nationwide Building Society is a British mutual financial institution and the largest building society in the world with over 15 million members. It has its headquarters in Swindon, with an office in Threadneedle Street, London, and administration centres based in Bournemouth, Northampton and Dunfermline. Made up of over a hundred mergers &mdash; most notably its merger with Anglia Building Society in 1987 and Portman Building Society in 2007 &mdash; Nationwide is now the second largest provider of household savings and mortgages in the UK.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nationwide-building-society.png",
+			"humanURL": "https://www.nationwide.co.uk/",
+			"baseURL": "https://openapi.nationwide.co.uk/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/nationwide-building-society/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of Ireland",
+			"x-api-slug": "bank-of-ireland",
+			"description": "Bank of Ireland Group plc is a public limited company incorporated in Ireland, with its registered office at 40 Mespil Road, Dublin 4 and registered number 593672. Bank of Ireland Group plc, whose shares are listed on the main markets of the Irish Stock Exchange plc and the London Stock Exchange plc , is the holding company of Bank of Ireland.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-ireland.jpg",
+			"humanURL": "https://www.bankofireland.com/",
+			"baseURL": "https://openapi.bankofireland.com/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bank-of-ireland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of Scotland",
+			"x-api-slug": "bank-of-scotland",
+			"description": "The Bank of Scotland is a commercial and clearing bank based in Edinburgh, Scotland. With a history dating to the 17th century, it is the fifth-oldest surviving bank in the United Kingdom (the Bank of England having been established one year before), and is the only commercial institution created by the Parliament of Scotland to remain in existence. It was one of the first banks in Europe to print its own banknotes and it continues to print its own sterling banknotes under legal arrangements which allow Scottish banks to issue currency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-scotland-logo.jpg",
+			"humanURL": "https://www.bankofscotland.co.uk/",
+			"baseURL": "https://api.bankofscotland.co.uk/open-banking/v2.1/",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bank-of-scotland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bookeo",
+			"x-api-slug": "bookeo",
+			"description": "Bookeo provides a leading online booking and scheduling system for tours, classes, and appointments, to help you save money and time. Click to learn more!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28769-www-bookeo-com.jpg",
+			"humanURL": "https://www.bookeo.com",
+			"baseURL": "https://api.bookeo.com//v2",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bookeo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RingCentral",
+			"x-api-slug": "ringcentral",
+			"description": "RingCentral, Inc. (NYSE: RNG) is a global provider of cloud enterprise unified communications and collaboration solutions. More flexible and cost-effective than legacy on-premise systems, RingCentral empowers today&rsquo;s mobile and distributed workforces to be connected anywhere and on any device through voice, video, team messaging, collaboration, SMS, conferencing, online meetings, contact center, and fax. RingCentral provides an open platform that integrates with today&rsquo;s leading business apps while giving customers the flexibility to customize their own workflows.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg",
+			"humanURL": "http://www.ringcentral.com",
+			"baseURL": "https://platform.ringcentral.com//",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/ringcentral/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ATTOM",
+			"x-api-slug": "attom",
+			"description": "Search public property records including real estate data: sale, ownership, tax, and more - for more than 150 million U.S. properties. ATTOM Data Solutions is the curator of ATTOM, a multi-sourced national property data warehouse that contains tax, deed, mortgage, foreclosure, environmental risk, natural hazard, health hazard, neighborhood characteristic and property characteristic data for over 155 million U.S. properties, delivering actionable data to clients and powering consumer websites owned by ATTOM Data Solutions: RealtyTrac.com, Homefacts.com, and HomeDisclosure.com.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg",
+			"humanURL": "https://api.developer.attomdata.com",
+			"baseURL": "https://search.onboard-apis.com//communityapi/v2.0.0",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/attom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"x-api-slug": "ibm-financial-crimes-insight-for-insurance",
+			"description": "IBM&reg; Financial Crimes Insight&reg; for Insurance V3.0, formerly known as IBM Counter Fraud Management for Insurance, is now being offered as a cloud service offering. It helps organizations analyze data to determine the fraud risk of claims, medical providers, and other business entities, manage the full investigation lifecycle, and report on outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/WFS-Counter-Fraud-Technical-Level-3.png",
+			"humanURL": "https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=897/ENUS218-305&appname=USN",
+			"baseURL": "https://fcihost.ibm.com:9443//",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/ibm-financial-crimes-insight-for-insurance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Business",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Business",
+	"include": [
+		{
+			"name": "Factual",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/factual/apis.yaml"
+		},
+		{
+			"name": "CrunchBase",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/crunchbase/apis.yaml"
+		},
+		{
+			"name": "Dun & Bradstreet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/dun--bradstreet/apis.yaml"
+		},
+		{
+			"name": "Foursquare",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/foursquare/apis.yaml"
+		},
+		{
+			"name": "FullContact",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/fullcontact/apis.yaml"
+		},
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "Aculab Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/aculab-cloud/apis.yaml"
+		},
+		{
+			"name": "AMEE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/amee/apis.yaml"
+		},
+		{
+			"name": "AngelList",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/angellist/apis.yaml"
+		},
+		{
+			"name": "Data8 Ltd",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/data8-ltd/apis.yaml"
+		},
+		{
+			"name": "StrikeIron",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/strikeiron/apis.yaml"
+		},
+		{
+			"name": "Yelp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/yelp/apis.yaml"
+		},
+		{
+			"name": "Cacoo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/cacoo/apis.yaml"
+		},
+		{
+			"name": "SensisAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/sensisapi/apis.yaml"
+		},
+		{
+			"name": "CityGrid Media",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/citygrid-media/apis.yaml"
+		},
+		{
+			"name": "OpenCorporates",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/opencorporates/apis.yaml"
+		},
+		{
+			"name": "TelAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/telapi/apis.yaml"
+		},
+		{
+			"name": "Data.be",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/data-be/apis.yaml"
+		},
+		{
+			"name": "Kompany.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/kompany-com/apis.yaml"
+		},
+		{
+			"name": "Square",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/square/apis.yaml"
+		},
+		{
+			"name": "Acxiom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/acxiom/apis.yaml"
+		},
+		{
+			"name": "Small Business Administration",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/small-business-administration/apis.yaml"
+		},
+		{
+			"name": "BusinessUSA",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/businessusa/apis.yaml"
+		},
+		{
+			"name": "Clearbit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/clearbit/apis.yaml"
+		},
+		{
+			"name": "Stocklytics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/stocklytics/apis.yaml"
+		},
+		{
+			"name": "Better Business Bureau",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/better-business-bureau/apis.yaml"
+		},
+		{
+			"name": "HSBC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/hsbc/apis.yaml"
+		},
+		{
+			"name": "Danske Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/danske-bank/apis.yaml"
+		},
+		{
+			"name": "Lloyds Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/lloyds-bank/apis.yaml"
+		},
+		{
+			"name": "Barclays",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/barclays/apis.yaml"
+		},
+		{
+			"name": "Royal Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/royal-bank-of-scotland/apis.yaml"
+		},
+		{
+			"name": "First Trust Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/first-trust-bank/apis.yaml"
+		},
+		{
+			"name": "Allied Irish Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/allied-irish-bank/apis.yaml"
+		},
+		{
+			"name": "Santander Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/santander-bank/apis.yaml"
+		},
+		{
+			"name": "NatWest",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/natwest/apis.yaml"
+		},
+		{
+			"name": "Ulster Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/ulster-bank/apis.yaml"
+		},
+		{
+			"name": "Nationwide Building Society",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/nationwide-building-society/apis.yaml"
+		},
+		{
+			"name": "Bank of Ireland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bank-of-ireland/apis.yaml"
+		},
+		{
+			"name": "Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bank-of-scotland/apis.yaml"
+		},
+		{
+			"name": "Bookeo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/bookeo/apis.yaml"
+		},
+		{
+			"name": "RingCentral",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/ringcentral/apis.yaml"
+		},
+		{
+			"name": "ATTOM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/attom/apis.yaml"
+		},
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/ibm-financial-crimes-insight-for-insurance/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/business/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
